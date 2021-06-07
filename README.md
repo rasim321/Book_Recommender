@@ -14,6 +14,9 @@ Can we improve this recommender?
 By scraping data directly from GoodReads, we can get richer data on book lists or, given enough time, a much larger dataset of books. 
 This part will allow us to scrape information using book titles or book list links from GoodReads. 
 
+![image](https://user-images.githubusercontent.com/59543579/120947769-83d25000-c70e-11eb-9ebe-a2924d9258bc.png)
+
+
 # Part 3: Book Recommender using summary embeddings and tags
 
 We use BERT to produce embeddings of the plot_summaries of the books in the dataset. Either book list links or a list of book titles 
@@ -24,3 +27,5 @@ two scores.
 
 The book recommender does not use ratings or review data, but uses the semantic similarity of the plot summary and the tags to 
 recommend books.
+
+Book Query: 
