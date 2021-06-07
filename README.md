@@ -1,5 +1,5 @@
 # Book_Recommender
-A book recommender that uses web scraped data from GoodReads, and NLP and clustering techniques to recommend books.
+A book recommender that uses web scraped data from GoodReads, NLP, and clustering techniques to recommend books.
 
 **How to use:**
 The easiest way to use it is to run it on google colab. The books.csv file is provided for the Part 1 recommender. 
