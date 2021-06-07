@@ -28,4 +28,9 @@ two scores.
 The book recommender does not use ratings or review data, but uses the semantic similarity of the plot summary and the tags to 
 recommend books.
 
-Book Query: 
+Book Query: "Little Women"
+
+Recommendations: 
+
+![image](https://user-images.githubusercontent.com/59543579/120947854-bed48380-c70e-11eb-99a0-709c1cccc63a.png)
+
