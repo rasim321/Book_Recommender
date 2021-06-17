@@ -1,5 +1,10 @@
 # Book_Recommender
 A book recommender that uses web scraped data from GoodReads, NLP, and clustering techniques to recommend books.
+The book recommender has been deployed! 
+Check it out at [gr-bookrec.herokuapp.com](gr-bookrec.herokuapp.com)
+
+![image](https://user-images.githubusercontent.com/59543579/122368560-7184bd00-cf2b-11eb-8353-16e8a6a7adf0.png)
+
 
 **How to use:**
 The easiest way to use it is to run it on google colab. The books.csv file is provided for the Part 1 recommender. 
