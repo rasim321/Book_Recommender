@@ -7,7 +7,9 @@ Check it out at [gr-bookrec.herokuapp.com](gr-bookrec.herokuapp.com)
 
 
 **How to use:**
-The easiest way to use it is to run it on google colab. The books.csv file is provided for the Part 1 recommender. 
+The easiest way to use it is at the link above. The database is updated regularly so if you cannot find your
+recommendations now, be sure to check back. You can also run it on google colab. 
+The books.csv file is provided for the Part 1 recommender. 
 For Part 2, you can scrape any GoodReads book list and run your query at the bottom of the notebook. 
 The recommender also takes in book names to build the dataset. 
 
