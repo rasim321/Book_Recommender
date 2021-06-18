@@ -49,7 +49,7 @@ Recommendations:
 
 Using the website, the recommendations page looks like the following:
 
-![image](https://user-images.githubusercontent.com/59543579/122615226-2adfb180-d056-11eb-8603-e8be3d3746ce.png)
+![image](https://user-images.githubusercontent.com/59543579/122615577-beb17d80-d056-11eb-8a50-36432793edba.png)
 
 Happy hunting!
 
