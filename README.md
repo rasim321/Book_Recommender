@@ -47,3 +47,9 @@ Recommendations:
 
 ![image](https://user-images.githubusercontent.com/59543579/120947854-bed48380-c70e-11eb-99a0-709c1cccc63a.png)
 
+Using the website, the recommendations page looks like the following:
+
+![image](https://user-images.githubusercontent.com/59543579/122615226-2adfb180-d056-11eb-8603-e8be3d3746ce.png)
+
+Happy hunting!
+
