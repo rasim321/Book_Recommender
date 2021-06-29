@@ -6,12 +6,21 @@ Check it out at [gr-bookrec.herokuapp.com](gr-bookrec.herokuapp.com)
 ![image](https://user-images.githubusercontent.com/59543579/122368560-7184bd00-cf2b-11eb-8353-16e8a6a7adf0.png)
 
 
-**How to use:**
-The easiest way to use it is at the link above. The database is updated regularly so if you cannot find your
-recommendations now, be sure to check back. You can also run it on google colab. 
-The books.csv file is provided for the Part 1 recommender. 
-For Part 2, you can scrape any GoodReads book list and run your query at the bottom of the notebook. 
-The recommender also takes in book names to build the dataset. 
+Check out the Book Recommender at [gr-bookrec.herokuapp.com](https://gr-bookrec.herokuapp.com) 
+
+The Book Recommender uses metadata scraped from [GoodReads](https://www.goodreads.com) to recommend interesting and relevant books. 
+
+**How to use:** The easiest way to use it is at the web app above. The database is updated regularly so if you cannot find your recommendations now, be sure to check back in 24 hours. You can also run it on google colab by scraping any GoodReads book list and run your query at the bottom of the notebook. The recommender can also take in book names to build the dataset.
+
+The web scraper collects title, author, reviews, ratings, plot summaries, and tags data to create the website's database. Goodreads is a wealth of information on books but not very accessible in an analyzable format. For example, a typical booklist looks like this:
+
+![image](https://user-images.githubusercontent.com/59543579/123773613-c95fe400-d89a-11eb-95b0-855072560a39.png)
+
+And although the information is available to create a recommendetion algorithm, the dataset would be better served in a tabular format. To create the recommender, I first built a web-scraping tool to download Goodreads lists or a list of book titles into a dataframe. Here's the same book list scraped and transformed into a tabular format:
+
+![image](https://user-images.githubusercontent.com/59543579/123776724-8c492100-d89d-11eb-9159-4493e12cae7d.png)
+
+
 
 
 # Part 1: Simple Book Recommender using pre-downloaded data
