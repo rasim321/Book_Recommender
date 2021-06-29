@@ -21,8 +21,6 @@ And although the information is available to create a recommendetion algorithm, 
 ![image](https://user-images.githubusercontent.com/59543579/123776724-8c492100-d89d-11eb-9159-4493e12cae7d.png)
 
 
-
-
 # Part 1: Simple Book Recommender using pre-downloaded data
 
 We use KNN and a pre-downloaded dataset of books (books.csv) to recommend books. 
@@ -37,6 +35,10 @@ By scraping data directly from GoodReads, we can get richer data on book lists o
 This part will allow us to scrape information using book titles or book list links from GoodReads. 
 
 ![image](https://user-images.githubusercontent.com/59543579/120947769-83d25000-c70e-11eb-9ebe-a2924d9258bc.png)
+
+One useful tool here is the SelectorGadget that helps find the right CSS selectors for scraping data. 
+
+![image](https://user-images.githubusercontent.com/59543579/123855015-677c9a00-d8ed-11eb-9bc2-2c2d3c4edbc3.png)
 
 
 # Part 3: Book Recommender using summary embeddings and tags
